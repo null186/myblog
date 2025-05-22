@@ -1,0 +1,15 @@
+{
+  "name": "一个简陋的博客",
+  "short_name": "一个简陋的博客",
+  "start_url": "/myblog/",
+  "scope": "/myblog/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/myblog/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
