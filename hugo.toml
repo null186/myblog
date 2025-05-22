@@ -1,4 +1,4 @@
 baseURL = 'https://null186.github.io/myblog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '一个简陋的博客'
 theme = "hugo-book"
